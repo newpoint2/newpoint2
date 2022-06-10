@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @newpoint2
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on never project
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me 07413301955
 
 
